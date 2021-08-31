@@ -41,8 +41,8 @@
 			users.set(obj.USER, u);
 		}
 		for(let k in fields)
-		  if(obj[k])
-		    u[fields[k]] = obj[k]
+			if(obj[k])
+				u[fields[k]] = obj[k]
 		if(obj.ONLINE)
 			u.status = statuses[obj.ONLINE];
 		u.order = ++order;
@@ -62,8 +62,8 @@
 	}
 
 	.user {
-    flex: 1 1 0;
-    min-width: 25em;
+		flex: 1 1 0;
+		min-width: 25em;
 	}
 </style>
 

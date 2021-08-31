@@ -8,14 +8,14 @@
 
 <style>
 	div {
-    width: 1em;
-    height: 1em;
-    border-radius: 50%;
+		width: 1em;
+		height: 1em;
+		border-radius: 50%;
 	}
 
-  .online { background-color: #0f0; }
-  .away { background-color: #fb0; }
-  .offline { background-color: #555; }
+	.online { background-color: #0f0; }
+	.away { background-color: #fb0; }
+	.offline { background-color: #555; }
 
 	.true, .false { border: 2px solid; }
 	.true { border-color: #eee; }

@@ -7,14 +7,14 @@
 </script>
 
 <style>
-  input {
-    min-height: 100%;
-    max-width: 100%;
-    background-color: #3b3b3d;
-    color: #fff;
-    border: none;
-    resize: none;
-  }
+	input {
+		min-height: 100%;
+		max-width: 100%;
+		background-color: #3b3b3d;
+		color: #fff;
+		border: none;
+		resize: none;
+	}
 </style>
 
 <main>
